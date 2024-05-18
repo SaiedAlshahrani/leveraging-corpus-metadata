@@ -1,5 +1,31 @@
 # Leveraging Corpus Metadata to Detect Template-based Translation: An Exploratory Case Study of the Egyptian Arabic Wikipedia Edition
-🚧 Under Construction
+
+
+Table of Content:
+
+
+
+## Exploratory Analysis:
+### Shallow Content
+### Poor Quality Content
+### Misleading Human Involvement
+
+## Experimental Setups:
+### Dataset Filtering, Labeling, and Cleaning:
+### Dataset Encoding Using Spark-NLP & CAMeLBERT:
+
+## Template Translation Detection:
+### Supervised Classification Algorithms:
+#### XGBoost
+#### Naive Bayes 
+#### Random Forest
+#### Logistic Regression 
+#### Support Vector Machine 
+
+### Unsupervised Clustering Algorithms:
+#### K-Means
+#### DBSCAN
+#### Hierarchical
 
 ```bash
 @article{alshahrani2024leveraging,
