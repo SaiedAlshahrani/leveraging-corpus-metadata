@@ -10,35 +10,37 @@ We, in this repository, share our labeled datasets, extracted corpora, code and 
 	
 * [**Experimental Setups:**](https://github.com/SaiedAlshahrani/leveraging-corpus-metadata/tree/main/Experimental-Setups)
 	* [Dataset Filtering, Labeling, and Cleaning](https://github.com/SaiedAlshahrani/leveraging-corpus-metadata/blob/main/Experimental-Setups/Dataset_Filtering_Labeling_Cleaning.ipynb)
-	* [Dataset Encoding Using Spark-NLP & CAMeLBERT:](https://github.com/SaiedAlshahrani/leveraging-corpus-metadata/tree/main/Experimental-Setups)
-		- [Dataset Encoding with Spark-NLP (Egyptian Word2Vec-CBOW 300D)](https://github.com/SaiedAlshahrani/leveraging-corpus-metadata/blob/main/Experimental-Setups/Dataset_Encoding_Spark-NLP.ipynb)
-		- [Dataset Encoding with CAMeLBERT (CAMeLBERT-Mix POS-EGY Model)](https://github.com/SaiedAlshahrani/leveraging-corpus-metadata/blob/main/Experimental-Setups/Dataset_Encoding_CAMeLBERT.ipynb)
+	* Dataset Encoding Using Spark-NLP & CAMeLBERT:
+		- [Encoding with Spark-NLP (Egyptian Word2Vec-CBOW 300D)](https://github.com/SaiedAlshahrani/leveraging-corpus-metadata/blob/main/Experimental-Setups/Dataset_Encoding_Spark-NLP.ipynb)
+		- [Encoding with CAMeLBERT (CAMeLBERT-Mix POS-EGY Model)](https://github.com/SaiedAlshahrani/leveraging-corpus-metadata/blob/main/Experimental-Setups/Dataset_Encoding_CAMeLBERT.ipynb)
 		
 * [**Template Translation Detection:**](https://github.com/SaiedAlshahrani/leveraging-corpus-metadata/tree/main/Template-Translation-Detection)
 
-	* Supervised Classification Algorithms:
-		1. XGBoost
-		2. Naive Bayes 
-		3. Random Forest
-		4. Logistic Regression 
-		5. Support Vector Machine 
-	* Unsupervised Clustering Algorithms:
-		1. DBSCAN.
-		2. K-Means.
-		3. Hierarchical.
-	* Web-based Detection System/Application:
-		1. Best-performing Classifier, XGBoost.
-		2. Egyptian Arabic Wikipedia Scanner:
-			* Streamlit Community Cloud.
-			* Hugging Face Spaces.
+	* [Supervised Classification Algorithms:](https://github.com/SaiedAlshahrani/leveraging-corpus-metadata/tree/main/Template-Translation-Detection/Supervised-Classification-Algorithms)
+		1. [XGBoost](https://github.com/SaiedAlshahrani/leveraging-corpus-metadata/blob/main/Template-Translation-Detection/Supervised-Classification-Algorithms/XGBoost.ipynb)
+		2. [Naive Bayes](https://github.com/SaiedAlshahrani/leveraging-corpus-metadata/blob/main/Template-Translation-Detection/Supervised-Classification-Algorithms/NaiveBayes.ipynb)
+		3. [Random Forest](https://github.com/SaiedAlshahrani/leveraging-corpus-metadata/blob/main/Template-Translation-Detection/Supervised-Classification-Algorithms/RandomForest.ipynb)
+		4. [Logistic Regression](https://github.com/SaiedAlshahrani/leveraging-corpus-metadata/blob/main/Template-Translation-Detection/Supervised-Classification-Algorithms/LogisticRegression.ipynb)
+		5. [Support Vector Machine](https://github.com/SaiedAlshahrani/leveraging-corpus-metadata/blob/main/Template-Translation-Detection/Supervised-Classification-Algorithms/SupportVectorMachine.ipynb)
+	* [Unsupervised Clustering Algorithms:](https://github.com/SaiedAlshahrani/leveraging-corpus-metadata/tree/main/Template-Translation-Detection/Unsupervised-Clustering-Algorithms)
+		1. [DBSCAN](https://github.com/SaiedAlshahrani/leveraging-corpus-metadata/blob/main/Template-Translation-Detection/Unsupervised-Clustering-Algorithms/DBSCAN.ipynb)
+		2. [K-Means](https://github.com/SaiedAlshahrani/leveraging-corpus-metadata/blob/main/Template-Translation-Detection/Unsupervised-Clustering-Algorithms/K-Means.ipynb)
+		3. [Hierarchical](https://github.com/SaiedAlshahrani/leveraging-corpus-metadata/blob/main/Template-Translation-Detection/Unsupervised-Clustering-Algorithms/Hierarchical.ipynb)
+		
+* Web-based Detection System/Application:
+	1. [Best-performing Classifier, XGBoost](https://github.com/SaiedAlshahrani/leveraging-corpus-metadata/blob/main/Template-Translation-Detection/Supervised-Classification-Algorithms/Best-performing-Classifier.ipynb)
+	2. [Egyptian Arabic Wikipedia Scanner:](https://github.com/SaiedAlshahrani/Egyptian-Wikipedia-Scanner)
+		* [Streamlit Community Cloud](https://egyptian-wikipedia-scanner.streamlit.app/)
+		* [Hugging Face Spaces](https://huggingface.co/spaces/SaiedAlshahrani/Egyptian-Wikipedia-Scanner)
+		
 * **Corpora and Datasets:**
-	* Arabic Wikipedia Corpora:
-		1. Arabic Wikipedia Articles.
-		2. Egyptian Wikipedia Articles.
-		3. Moroccan Wikipedia Articles.
-	* Egyptian Arabic Dataset:
-		1. Hugging Face Datasets.
-		2. Raw CSV Datasets Files.
+	* [Arabic Wikipedia Corpora:](https://github.com/SaiedAlshahrani/leveraging-corpus-metadata/tree/main/Wikipedia-20240101)
+		1. [Arabic Wikipedia Articles](https://github.com/SaiedAlshahrani/leveraging-corpus-metadata/blob/main/Wikipedia-20240101/arwiki-20240101.zip)
+		2. [Egyptian Wikipedia Articles](https://github.com/SaiedAlshahrani/leveraging-corpus-metadata/blob/main/Wikipedia-20240101/arzwiki-20240101.zip)
+		3. [Moroccan Wikipedia Articles](https://github.com/SaiedAlshahrani/leveraging-corpus-metadata/blob/main/Wikipedia-20240101/arywiki-20240101.zip)
+	* Egyptian Arabic Articles Dataset:
+		1. [Hugging Face Datasets](https://huggingface.co/datasets/SaiedAlshahrani/Detect-Egyptian-Wikipedia-Articles)
+		2. [Raw CSV Datasets Files](https://github.com/SaiedAlshahrani/leveraging-corpus-metadata/tree/main/Experimental-Setups/csvs)
 
 * **Paper Citations:**
 
