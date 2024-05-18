@@ -40,13 +40,14 @@ We, in this repository, share our labeled datasets, extracted corpora, code and 
 		3. [Moroccan Wikipedia Articles](https://github.com/SaiedAlshahrani/leveraging-corpus-metadata/blob/main/Wikipedia-20240101/arywiki-20240101.zip)
 	* Egyptian Arabic Articles Dataset:
 		1. [Hugging Face Datasets](https://huggingface.co/datasets/SaiedAlshahrani/Detect-Egyptian-Wikipedia-Articles)
-		2. [Raw CSV Datasets Files](https://github.com/SaiedAlshahrani/leveraging-corpus-metadata/tree/main/Experimental-Setups/csvs)
+		2. [Raw CSV Datasets](https://github.com/SaiedAlshahrani/leveraging-corpus-metadata/tree/main/Experimental-Setups/csvs)
+		3. Masader+ (soon)
 
 * **Paper Citations:**
 
 >Saied Alshahrani, Hesham Haroon, Ali Elfilali, Mariama Njie, and Jeanna Matthews. 2024. [Leveraging Corpus Metadata to Detect Template-based Translation: An Exploratory Case Study of the Egyptian Arabic Wikipedia Edition](https://arxiv.org/abs/2404.00565). *arXiv preprint arXiv:2404.00565*.
 
-<details><summary>BibTeX:</summary> <p align="left"></p>
+<details><summary>BibTeX:</summary><p align="left"></p>
 
 ```
 @article{alshahrani2024leveraging,
