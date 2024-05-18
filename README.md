@@ -1,6 +1,6 @@
 # Leveraging Corpus Metadata to Detect Template-based Translation: An Exploratory Case Study of the Egyptian Arabic Wikipedia Edition
 
-**Table of Content**
+### **Table of Content**
 
 * **Exploratory Analysis:**
 	1. Shallow Content
