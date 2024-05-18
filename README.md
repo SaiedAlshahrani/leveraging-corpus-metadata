@@ -1,6 +1,6 @@
 # Leveraging Corpus Metadata to Detect Template-based Translation: An Exploratory Case Study of the Egyptian Arabic Wikipedia Edition
 
-In this repository, we share our labeled datasets, extracted corpora, code and scripts of the exploratory analysis, the multivariate machine learning classifiers and clusters, and the implementation and deployment of the best-performing classifier as a web-based detection system called "*Egyptian Arabic Wikipedia Scanner*", which all are introduced in our accepted paper, [**Leveraging Corpus Metadata to Detect Template-based Translation: An Exploratory Case Study of the Egyptian Arabic Wikipedia Edition**](https://arxiv.org/abs/2404.00565), at [*The 6th Workshop on Open-Source Arabic Corpora and Processing Tools (OSACT6)*](https://osact-lrec.github.io/), co-located with [LREC-COLING 2024](https://lrec-coling-2024.org/), 20-25 May 2024. 
+We, in this repository, share our labeled datasets, extracted corpora, code and scripts of the exploratory analysis, the multivariate machine learning classifiers and clusters, and the implementation and deployment of the best-performing classifier as a web-based detection system called "*Egyptian Arabic Wikipedia Scanner*", which all are introduced in our accepted paper, [**Leveraging Corpus Metadata to Detect Template-based Translation: An Exploratory Case Study of the Egyptian Arabic Wikipedia Edition**](https://arxiv.org/abs/2404.00565), at [*The 6th Workshop on Open-Source Arabic Corpora and Processing Tools (OSACT6)*](https://osact-lrec.github.io/), co-located with [LREC-COLING 2024](https://lrec-coling-2024.org/), 20-25 May 2024. 
 
 
 * [**Exploratory Analysis:**](https://github.com/SaiedAlshahrani/leveraging-corpus-metadata/tree/main/Exploratory-Analysis)
@@ -40,8 +40,9 @@ In this repository, we share our labeled datasets, extracted corpora, code and s
 		1. Hugging Face Datasets.
 		2. Raw CSV Datasets Files.
 
+* **Citations:**
 
-Saied Alshahrani, Hesham Haroon, Ali Elfilali, Mariama Njie, and Jeanna Matthews. 2024. [Leveraging Corpus Metadata to Detect Template-based Translation: An Exploratory Case Study of the Egyptian Arabic Wikipedia Edition](https://arxiv.org/abs/2404.00565). *arXiv preprint arXiv:2404.00565*.
+`Saied Alshahrani, Hesham Haroon, Ali Elfilali, Mariama Njie, and Jeanna Matthews. 2024. [Leveraging Corpus Metadata to Detect Template-based Translation: An Exploratory Case Study of the Egyptian Arabic Wikipedia Edition](https://arxiv.org/abs/2404.00565). *arXiv preprint arXiv:2404.00565*.`
 
 ```
 @article{alshahrani2024leveraging,
