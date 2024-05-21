@@ -36,7 +36,7 @@ We, in this repository, share our labeled datasets, extracted corpora, code and 
 	* Egyptian *Template-translated* Articles:
 		1. [Hugging Face Datasets](https://huggingface.co/datasets/SaiedAlshahrani/Detect-Egyptian-Wikipedia-Articles)
 		2. [Raw CSV Datasets](https://github.com/SaiedAlshahrani/leveraging-corpus-metadata/tree/main/Experimental-Setups/csvs)
-		3. Masader+ (soon)
+		3. [Masader+ (#652)](https://arbml.github.io/masader/card?id=652)
 		
 * **Paper Citations:**
 
