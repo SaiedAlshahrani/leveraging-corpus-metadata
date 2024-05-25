@@ -40,42 +40,6 @@ We, in this repository, share our labeled datasets, extracted corpora, code and 
 		
 * **Paper Citations:**
 
->Saied Alshahrani, Hesham Haroon, Ali Elfilali, Mariama Njie, and Jeanna Matthews. 2024. [Leveraging Corpus Metadata to Detect Template-based Translation: An Exploratory Case Study of the Egyptian Arabic Wikipedia Edition](https://arxiv.org/abs/2404.00565). *arXiv preprint arXiv:2404.00565*.
+<s>Saied Alshahrani, Hesham Haroon, Ali Elfilali, Mariama Njie, and Jeanna Matthews. 2024. [Leveraging Corpus Metadata to Detect Template-based Translation: An Exploratory Case Study of the Egyptian Arabic Wikipedia Edition](https://arxiv.org/abs/2404.00565). *arXiv preprint arXiv:2404.00565*.</s>
 
 Saied Alshahrani, Hesham Haroon, Ali Elfilali, Mariama Njie, and Jeanna Matthews. 2024. [Leveraging Corpus Metadata to Detect Template-based Translation: An Exploratory Case Study of the Egyptian Arabic Wikipedia Edition](https://aclanthology.org/2024.osact-1.4/). *In Proceedings of the 6th Workshop on Open-Source Arabic Corpora and Processing Tools (OSACT) with Shared Tasks on Arabic LLMs Hallucination and Dialect to MSA Machine Translation @ LREC-COLING 2024*, pages 31–45, Torino, Italia. ELRA and ICCL.*
-
-```
-@article{alshahrani2024leveraging,
-      title={Leveraging Corpus Metadata to Detect Template-based Translation: An Exploratory Case Study of the Egyptian Arabic Wikipedia Edition}, 
-      author={Saied Alshahrani and Hesham Haroon and Ali Elfilali and Mariama Njie and Jeanna Matthews},
-      year={2024},
-      eprint={2404.00565},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-      journal={arXiv preprint arXiv:2404.00565},
-      url={https://arxiv.org/abs/2404.00565}
-}
-```
-```
-@inproceedings{alshahrani-etal-2024-leveraging,
-    title = "Leveraging Corpus Metadata to Detect Template-based Translation: An Exploratory Case Study of the {E}gyptian {A}rabic {W}ikipedia Edition",
-    author = "Alshahrani, Saied  and
-      Mohammed, Hesham Haroon  and
-      Elfilali, Ali  and
-      Njie, Mariama  and
-      Matthews, Jeanna",
-    editor = "Al-Khalifa, Hend  and
-      Darwish, Kareem  and
-      Mubarak, Hamdy  and
-      Ali, Mona  and
-      Elsayed, Tamer",
-    booktitle = "Proceedings of the 6th Workshop on Open-Source Arabic Corpora and Processing Tools (OSACT) with Shared Tasks on Arabic LLMs Hallucination and Dialect to MSA Machine Translation @ LREC-COLING 2024",
-    month = may,
-    year = "2024",
-    address = "Torino, Italia",
-    publisher = "ELRA and ICCL",
-    url = "https://aclanthology.org/2024.osact-1.4",
-    pages = "31--45",
-    abstract = "Wikipedia articles (content pages) are commonly used corpora in Natural Language Processing (NLP) research, especially in low-resource languages other than English. Yet, a few research studies have studied the three Arabic Wikipedia editions, Arabic Wikipedia (AR), Egyptian Arabic Wikipedia (ARZ), and Moroccan Arabic Wikipedia (ARY), and documented issues in the Egyptian Arabic Wikipedia edition regarding the massive automatic creation of its articles using template-based translation from English to Arabic without human involvement, overwhelming the Egyptian Arabic Wikipedia with articles that do not only have low-quality content but also with articles that do not represent the Egyptian people, their culture, and their dialect. In this paper, we aim to mitigate the problem of template translation that occurred in the Egyptian Arabic Wikipedia by identifying these template-translated articles and their characteristics through exploratory analysis and building automatic detection systems. We first explore the content of the three Arabic Wikipedia editions in terms of density, quality, and human contributions and utilize the resulting insights to build multivariate machine learning classifiers leveraging articles{'} metadata to detect the template-translated articles automatically. We then publicly deploy and host the best-performing classifier as an online application called {`}Egyptian Wikipedia Scanner{'} and release the extracted, filtered, labeled, and preprocessed datasets to the research community to benefit from our datasets and the online, web-based detection system.",
-}
-```
